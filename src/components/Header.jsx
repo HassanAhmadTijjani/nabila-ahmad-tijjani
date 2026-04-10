@@ -21,7 +21,7 @@ const Header = () => {
                 {/* Name/Title */}
                 <div className='mb-6'>
                     <h1 className='text-4xl md:text-5xl font-bold text-gray-900 mb-2'>Nabila Ahmad Tijjani</h1>
-                    <p className='text-lg text-gray-600 mb-4'>Psychology Graduate | Cyber Security Professional | Public Health Advocate</p>
+                    <p className='text-lg text-gray-600 mb-4'>Physiology Graduate | Cyber Security Professional | Public Health Advocate</p>
                 </div>
 
                 {/* Contact Info */}
