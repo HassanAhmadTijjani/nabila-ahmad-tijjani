@@ -248,7 +248,7 @@ const Main = () => {
                         href="https://wa.me/2349061197119"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="bg-green-500 text-white px-6 py-3 rounded-lg hover:bg-green-600 font-medium inline-flex items-center gap-2"
+                        className="bg-green-500 w-40 text-white px-6 py-3 rounded-lg hover:bg-green-600 font-medium inline-flex items-center gap-2"
                     >
                         <MessageCircle />
                         Chat on WhatsApp
